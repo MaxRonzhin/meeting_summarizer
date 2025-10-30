@@ -1,1 +1,8 @@
-pytest==7.4.4
+openai-whisper
+sounddevice
+numpy
+torch
+transformers
+ctransformers
+tqdm
+pytest
